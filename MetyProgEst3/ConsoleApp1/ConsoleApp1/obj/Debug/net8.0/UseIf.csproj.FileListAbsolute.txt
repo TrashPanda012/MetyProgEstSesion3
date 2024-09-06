@@ -1,0 +1,14 @@
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UseIf.exe
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UseIf.deps.json
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UseIf.runtimeconfig.json
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UseIf.dll
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\UseIf.pdb
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UseIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UseIf.AssemblyInfoInputs.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UseIf.AssemblyInfo.cs
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UseIf.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UseIf.dll
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\UseIf.dll
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UseIf.pdb
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\UseIf.genruntimeconfig.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\UseIf.dll

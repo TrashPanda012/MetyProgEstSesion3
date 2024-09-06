@@ -1,0 +1,10 @@
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\bin\Debug\EvalAge.exe.config
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\bin\Debug\EvalAge.exe
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\bin\Debug\EvalAge.pdb
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\obj\Debug\EvalAge.csproj.AssemblyReference.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\obj\Debug\EvalAge.Form1.resources
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\obj\Debug\EvalAge.Properties.Resources.resources
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\obj\Debug\EvalAge.csproj.GenerateResource.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\obj\Debug\EvalAge.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\obj\Debug\EvalAge.exe
+C:\Users\Kevin Browne\OneDrive\Documents\UAM\Metodología y Programación Estructurada\Repositorios\MetyProgEst3\EvalAge\EvalAge\obj\Debug\EvalAge.pdb
